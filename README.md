@@ -9,3 +9,4 @@ Auto typer for [nitrotype.com](https://www.nitrotype.com) typing game.  Extensio
 * `src/inject/inject.js` - entry point
 * `src/inject/script.js` - main logic
 * `manifest.json` - metadata
+* `scratchpad.js` - **this is not used**.  this contains a history of ideas and code for the extension.  For example, OCR javascript code.
